@@ -1,4 +1,14 @@
-nodejs-express-mongodb-start
+Node.js Express MongoDB Start
 ============================
 
-Node.js with Express and MongoDB starting project
+Simple boilerplate Node server using Express and MongoDB database.
+
+Install
+-------
+
+$ npm install
+
+Run server 
+----------
+
+$ node server.js
