@@ -1,0 +1,20 @@
+{
+	"name": "nodejs-express-mongodb-start",
+	"description": "Node.js, Express and MongoDB starting project",
+	"version": "0.0.1",
+	"private": "true",
+	"dependencies": {
+		"express": "3.1.x",
+		"mongodb": "1.3.x",
+		"consolidate":"0.5.x",
+        "handlebars":"1.0.x"
+	},
+
+	"engines": {
+		"node":"0.10.x"
+	},
+    
+	"scripts": {
+		"start": "node server"
+	}
+}
